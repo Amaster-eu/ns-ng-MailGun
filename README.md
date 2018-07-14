@@ -1,6 +1,6 @@
 # NativeScript for Angular: Send Emails with Mailgun
 
-![img](img/demo_ns-ng-MailGun.gif)
+![img](img/demo_ns-ng-MailGun.gif | width=910)
 
 *Demo apps*
 
